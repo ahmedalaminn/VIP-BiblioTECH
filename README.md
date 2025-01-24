@@ -1,1 +1,1 @@
-# VIP-VYZ-BiblioTECH
+# VIP-BiblioTECH
