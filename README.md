@@ -46,6 +46,10 @@ git pull
 
 ### Additional Notes  
 - The first time you push changes, Git may prompt you to log in. Use your Georgia Tech GitHub login.  
-- Check out this helpful guide if you need more help: [Git Guide](https://rogerdudler.github.io/git-guide/)  
+- Check out this helpful guide if you need more help: [Git Guide](https://rogerdudler.github.io/git-guide/)
+- You can also use the following command to access Git's built-in help documentation:  
+  ```bash
+  git --help
+  ```
 
 If you need any help, feel free to reach out to me! 🚀  
