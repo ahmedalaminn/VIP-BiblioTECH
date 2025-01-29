@@ -7,7 +7,7 @@ To download the repository onto your computer, run:
 ```bash
 git clone https://github.gatech.edu/aalamin3/VIP-BiblioTECH
 ```
-Then, initialize the local repository (if needed):  
+Then, initialize the local repository:  
 ```bash
 git init
 ```
