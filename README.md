@@ -52,4 +52,4 @@ git pull
   git --help
   ```
 
-If you need any help, feel free to reach out to me! 🚀  
+If you need any help, feel free to reach out  
